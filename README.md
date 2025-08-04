@@ -27,6 +27,9 @@ Combine Medusa's modules for your commerce backend with the newest Next.js 15 fe
   </a>
 </p>
 
+# toko-trend-storefront
+is an nextjs e-commerce client website using medusa template
+
 ### Prerequisites
 
 To use the [Next.js Starter Template](https://medusajs.com/nextjs-commerce/), you should have a Medusa server running locally on port 9000.
